@@ -8,7 +8,7 @@
 |----|-----| ------- | -------- |
 ||Strings| [Encode Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/encode_decode.py) |
 ||Graphs| [Number of Islands](https://leetcode.com/problems/encode-and-decode-strings/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/encode_decode.py) |
-||Graphs| [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/encode_decode.py) |
+||Graphs| [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/clone_graph.py) |
 ||Graphs| [Pacific Atlantic Waterflow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/pacific_atlantic_waterflow.py) |
 ||Graphs| [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/encode_decode.py) |
 ||Graphs| [Number of Connected Components in Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/encode_decode.py) |
