@@ -7,6 +7,16 @@
 |S.No|Topic| Problem | Solution |
 |----|-----| ------- | -------- |
 ||Strings| [Encode Decode Strings](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/encode_decode.py) |
+||Trees| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/invert_binary_tree.py) |
+||Trees| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/max_depth_binary_tree.py) |
+||Trees| [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/same_tree.py) |
+||Trees| [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/subtree_of_another_tree.py) |
+||Trees| [Lowest Common Ancestor of a BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/lowest_common_ancestor.py) |
+||Trees| [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/binary_tree_level_order_traversal.py) |
+||Trees| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/validate_binary_search_tree.py) |
+||Trees| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/kth_smallest_element_in_bst.py) |
+||Trees| [Construct Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/bin_tree_from_pre_and_in.py) |
+||Trees| [Binary Tree Max Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/binary_tree_max_path_sum.py) |
 ||Trees| [Serialize Deserialize Binary Tree](https://leetcode.com/problems/encode-and-decode-strings/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/serialize_deserialize_binary_tree.py) |
 ||Graphs| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/number_of_islands.py) |
 ||Graphs| [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/clone_graph.py) |
