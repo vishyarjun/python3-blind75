@@ -7,6 +7,12 @@
 |S.No|Topic| Problem | Solution |
 |----|-----| ------- | -------- |
 ||Strings| [Encode Decode Strings](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/encode_decode.py) |
+||Linked List| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/reverse_linked_list.py) |
+||Linked List| [Merge Two Linked Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/merge_two_linked_list.py) |
+||Linked List| [Reorder List](https://leetcode.com/problems/reorder-list/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/reorder_list.py) |
+||Linked List| [Remove Nth Node from End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/nth_node_from_end.py) |
+||Linked List| [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/linked_list_cycle.py) |
+||Linked List| [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/merge_k_sorted_lists.py) |
 ||Trees| [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/invert_binary_tree.py) |
 ||Trees| [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/max_depth_binary_tree.py) |
 ||Trees| [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/same_tree.py) |
