@@ -13,6 +13,9 @@
 ||Sliding Window| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/longest_substring_without_repeating_characters.py) |
 ||Sliding Window| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/longest_repeating_character_replacement.py) |
 ||Sliding Window| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/minimum_window_substring.py) |
+||Stack| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/valid_paranthesis.py) |
+||Binary Search| [Search Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/search_in_rotated_sorted_array.py) |
+||Binary Search| [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/find_minimum_rotated_sorted_array.py) |
 ||Strings| [Encode Decode Strings](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/encode_decode.py) |
 ||Linked List| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/reverse_linked_list.py) |
 ||Linked List| [Merge Two Linked Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/merge_two_linked_list.py) |
