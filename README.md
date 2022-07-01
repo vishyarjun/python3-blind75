@@ -9,6 +9,10 @@
 ||Two Pointers| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/valid_palindrome.py) |
 ||Two Pointers| [3Sum](https://leetcode.com/problems/3sum/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/3_sum.py) |
 ||Two Pointers| [Container with Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/container_with_most_water.py) |
+||Sliding Window| [Best Time to Buy & Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/best_time_to_buy_and_sell_stocks.py) |
+||Sliding Window| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/longest_substring_without_repeating_characters.py) |
+||Sliding Window| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/longest_repeating_character_replacement.py) |
+||Sliding Window| [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/minimum_window_substring.py) |
 ||Strings| [Encode Decode Strings](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/encode_decode.py) |
 ||Linked List| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/reverse_linked_list.py) |
 ||Linked List| [Merge Two Linked Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/merge_two_linked_list.py) |
