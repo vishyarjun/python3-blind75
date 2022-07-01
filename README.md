@@ -34,9 +34,9 @@
 ||Trees| [Construct Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/bin_tree_from_pre_and_in.py) |
 ||Trees| [Binary Tree Max Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/binary_tree_max_path_sum.py) |
 ||Trees| [Serialize Deserialize Binary Tree](https://leetcode.com/problems/encode-and-decode-strings/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/serialize_deserialize_binary_tree.py) |
-||Trie| [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/serialize_deserialize_binary_tree.py) |
-||Trie| [Design Add and Search Word Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/serialize_deserialize_binary_tree.py) |
-||Trie| [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/serialize_deserialize_binary_tree.py) |
+||Trie| [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/implement_trie.py) |
+||Trie| [Design Add and Search Word Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/design_add_search_word_data_structure.py) |
+||Trie| [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/word_search_ii.py) |
 ||Graphs| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/number_of_islands.py) |
 ||Graphs| [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/clone_graph.py) |
 ||Graphs| [Pacific Atlantic Waterflow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/pacific_atlantic_waterflow.py) |
