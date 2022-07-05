@@ -38,6 +38,8 @@
 ||Trie| [Design Add and Search Word Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/design_add_search_word_data_structure.py) |
 ||Trie| [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/word_search_ii.py) |
 ||Heap / Priority Queue| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/find_median_from_data_stream.py) |
+||Back Tracking| [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/combination_sum.py) |
+||Back Tracking| [Word Search](https://leetcode.com/problems/word-search/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/word_search.py) |
 ||Graphs| [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/number_of_islands.py) |
 ||Graphs| [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/clone_graph.py) |
 ||Graphs| [Pacific Atlantic Waterflow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [Solution](https://github.com/vishyarjun/dsa-leetcode/blob/master/pacific_atlantic_waterflow.py) |
